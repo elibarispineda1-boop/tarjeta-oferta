@@ -1,0 +1,32 @@
+div {
+    padding: 20px;
+    border: 2px solid #5b0974;
+    border-radius: 15px;
+    width: 300px;
+}
+
+.producto {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #eacaf1;
+    transition: all 0.4s ease; 
+    width: 150px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+.oferta {
+    background-color: #e293fa;
+    border-color: #eee7f3;
+    transform: scale(1.05); 
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.oferta h3 {
+    color: #020100;
+    text-transform: uppercase;
+}
+
+.oferta p {
+    font-weight: bold;
